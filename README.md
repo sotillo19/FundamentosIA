@@ -34,7 +34,7 @@ El propósito de este flujo es construir un ejemplo transparente y reproducible 
 - entrenar un clasificador de tipo **Decision Tree**,
 - predecir la severidad en casos no vistos,
 - evaluar el modelo mediante métricas estándar de calidad, y
-- exportar los resultados a un archivo Excel.
+- exportar los resultados a distintos formatos: modelo, tabla de datos y archivo Excel.
 
 ---
 
