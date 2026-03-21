@@ -1,8 +1,8 @@
 # Flujo de trabajo en KNIME para la clasificación de la severidad en mamografía
 
-Este repositorio documenta un **flujo de trabajo completo en KNIME** para la clasificación de lesiones mamográficas en las clases **benign** y **malignant** a partir de variables clínicas y morfológicas estructuradas. El flujo cubre el ciclo de vida completo de los datos: lectura, preprocesamiento, visualización exploratoria, entrenamiento del modelo, predicción, evaluación y exportación de resultados.
+Este repositorio documenta, a nivel básico, un **flujo de trabajo completo en KNIME** para la clasificación de lesiones mamográficas en las clases **benign** y **malignant** a partir de variables clínicas y morfológicas estructuradas. El flujo cubre el ciclo de vida completo de los datos: lectura, preprocesamiento, visualización exploratoria, entrenamiento del modelo, predicción, evaluación y exportación de resultados.
 
-Aunque se trata de un ejemplo intencionadamente sencillo, refleja un ejemplo de aprendizaje supervisado sólido y adecuada para fines demostrativos en análisis de datos biomédicos.
+Aunque se trata de un flujo de trabajo intencionadamente sencillo, refleja un ejemplo de aprendizaje supervisado sólido y adecuado para fines demostrativos en análisis de datos biomédicos como ejemplo final de la asignatura Fundamentos de IA.
 
 ---
 
